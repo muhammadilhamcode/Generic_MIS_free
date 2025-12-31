@@ -1,5 +1,5 @@
 <?php
     class validation_model{
-       protected $model_id;
+       public $model_id;
     }
 ?>
